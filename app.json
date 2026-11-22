@@ -8,6 +8,9 @@
     "android": {
       "package": "com.alikangsa.auraaisnack",
       "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.alikangsa.auraaisnack"
     }
   }
 }
