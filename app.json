@@ -11,6 +11,11 @@
     },
     "ios": {
       "bundleIdentifier": "com.alikangsa.auraaisnack"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f8304716-afaa-4ff6-baba-05c1a45daf81"
+      }
     }
   }
 }
